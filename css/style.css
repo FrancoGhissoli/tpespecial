@@ -1,0 +1,13 @@
+.boton_generos{
+text-decoration: none;
+border-radius: 50%;
+padding: 5px;
+border: solid 2px black;
+margin: 2px;
+background-color: #0d6efd;
+color: white;
+
+}
+.grupo_botones{
+    padding: 10px;
+}
